@@ -12,7 +12,7 @@ public class StackClass{
             next=null;
         }
     }
-    static class Stack{
+    public static class Stack{
         static Node head;
         public boolean isEmpty()
         {
